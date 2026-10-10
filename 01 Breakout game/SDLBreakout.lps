@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release">
+      <Item Name="Debug">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <Target>
+            <Filename Value="SDLBreakout"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir);SDL3-for-Pascal/units"/>
+            <OtherUnitFiles Value="SDL3-for-Pascal/units"/>
+            <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <Parsing>
+            <SyntaxOptions>
+              <IncludeAssertionCode Value="True"/>
+            </SyntaxOptions>
+          </Parsing>
+          <CodeGeneration>
+            <Checks>
+              <IOChecks Value="True"/>
+              <RangeChecks Value="True"/>
+              <OverflowChecks Value="True"/>
+              <StackChecks Value="True"/>
+            </Checks>
+            <VerifyObjMethodCallValidity Value="True"/>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <DebugInfoType Value="dsDwarf3"/>
+              <UseHeaptrc Value="True"/>
+              <TrashVariables Value="True"/>
+            </Debugging>
+            <Options>
+              <Win32>
+                <GraphicApplication Value="True"/>
+              </Win32>
+            </Options>
+          </Linking>
+        </CompilerOptions>
+      </Item>
+    </BuildModes>
+    <Units>
+      <Unit>
+        <Filename Value="SDLBreakout.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="247"/>
+        <CursorPos X="16" Y="259"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Lazarus-SDL-3.0-Packages-and-Examples-main\packages\SDL3\SDL_events.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="582"/>
+        <CursorPos X="11" Y="594"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Lazarus-SDL-3.0-Packages-and-Examples-main\packages\SDL3\SDL_stdinc.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="411"/>
+        <CursorPos X="3" Y="423"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Lazarus-SDL-3.0-Packages-and-Examples-main\packages\SDL3\SDL_render.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="207"/>
+        <CursorPos X="10" Y="219"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="12" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="252" Column="11" TopLine="238"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="246" Column="12" TopLine="234"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="12" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="246" Column="14" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="Lazarus-SDL-3.0-Packages-and-Examples-main\packages\SDL3\SDL_events.inc"/>
+        <Caret Line="589" Column="23" TopLine="584"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="257" Column="11" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="255" Column="14" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="253" Column="19" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="248" Column="16" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="Lazarus-SDL-3.0-Packages-and-Examples-main\packages\SDL3\SDL_events.inc"/>
+        <Caret Line="648" Column="10" TopLine="636"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="249" Column="14" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="251" Column="20" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="252" Column="15" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="246" Column="12" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="253" Column="14" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="246" Column="13" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="Lazarus-SDL-3.0-Packages-and-Examples-main\packages\SDL3\SDL_events.inc"/>
+        <Caret Line="587" Column="8" TopLine="575"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="252" Column="18" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="256" Column="21" TopLine="244"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="369" Column="3" TopLine="361"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="353" Column="8" TopLine="345"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="65" Column="7" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="49" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="14"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="347" TopLine="338"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="12" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="15" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="350" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="SDLBreakout.lpr"/>
+        <Caret Line="379" Column="15" TopLine="363"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
